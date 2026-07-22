@@ -1,0 +1,26 @@
+{
+  "warehouse": "BLR_WH_01",
+  "snapshot_date": "2026-07-22",
+  "items": [
+    {
+      "ProductID": "P101",
+      "Stock": 120
+    },
+    {
+      "ProductID": "P102",
+      "Stock": 850
+    },
+    {
+      "ProductID": "P103",
+      "Stock": 420
+    },
+    {
+      "ProductID": "P104",
+      "Stock": 90
+    },
+    {
+      "ProductID": "P105",
+      "Stock": 300
+    }
+  ]
+}

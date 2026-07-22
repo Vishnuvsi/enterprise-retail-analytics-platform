@@ -1,0 +1,6 @@
+CustomerID,CustomerName,City,Country,CustomerTier
+C001,Rahul Sharma,Bengaluru,India,Premium
+C002,Ananya Rao,Hyderabad,India,Gold
+C003,John Smith,New York,USA,Silver
+C004,Emily Brown,London,UK,Gold
+C005,Liam Wilson,Sydney,Australia,Premium
