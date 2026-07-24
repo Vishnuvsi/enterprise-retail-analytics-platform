@@ -1,0 +1,88 @@
+ADMINISTRATION
+──────────────────────────
+
+✅ Warehouses
+✅ Databases
+✅ Schemas
+✅ Roles
+
+──────────────────────────
+
+INGESTION
+──────────────────────────
+
+✅ Storage Integration
+✅ Azure Entra ID
+✅ RBAC
+✅ External Stage
+✅ File Formats
+✅ COPY INTO
+✅ Snowpipe
+✅ Snowpipe Streaming
+
+──────────────────────────
+
+DATA ENGINEERING
+──────────────────────────
+
+✅ Bronze
+✅ Silver
+✅ Gold
+✅ Streams
+✅ Tasks
+✅ Stored Procedures
+✅ Dynamic Tables
+✅ MERGE
+
+──────────────────────────
+
+SEMI-STRUCTURED DATA
+──────────────────────────
+
+✅ JSON
+✅ VARIANT
+✅ FLATTEN
+
+──────────────────────────
+
+PERFORMANCE
+──────────────────────────
+
+✅ Micro-partitions
+✅ Partition Pruning
+✅ Clustering
+✅ Search Optimization
+✅ Materialized Views
+✅ Query Profile
+✅ Caching
+
+──────────────────────────
+
+RECOVERY
+──────────────────────────
+
+✅ Time Travel
+✅ UNDROP
+✅ Zero Copy Clone
+
+──────────────────────────
+
+SECURITY
+──────────────────────────
+
+✅ RBAC
+✅ Grants
+✅ Future Grants
+✅ Masking Policies
+✅ Row Access Policies
+✅ Secure Views
+
+──────────────────────────
+
+GOVERNANCE
+──────────────────────────
+
+✅ Resource Monitors
+✅ Secure Data Sharing
+✅ Reader Accounts
+✅ Marketplace
